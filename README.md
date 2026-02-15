@@ -112,10 +112,10 @@ For more models, see the scripts under [scripts/geolocalization](scripts/geoloca
 
 If you find this useful in your research, please consider citing:
 ```
-@inproceedings{wang2025marsretrieval,
+@article{wang2025marsretrieval,
   title={MarsRetrieval: Benchmarking Vision-Language Models for Planetary-Scale Geospatial Retrieval on Mars},
   author={Wang, Shuoyuan and Wang, Yiran and Wei, Hongxin},
-  booktitle = {ArXiv},
+  journal = {ArXiv},
   year = {2026}
 }
 ```
