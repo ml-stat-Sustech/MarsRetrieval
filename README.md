@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/">📘 Paper</a>  |
-  <a href="https://huggingface.co/collections/claytonwang/marsretrieval">🤗 Datasets</a>
+  <a href="https://huggingface.co/collections/SUSTech/marsretrieval">🤗 Datasets</a>
 
 </p>
 

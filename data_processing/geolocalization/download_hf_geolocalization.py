@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from huggingface_hub import snapshot_download
 
-DATASET = "claytonwang/Mars-Global-Geolocalization"
+DATASET = "SUSTech/Mars-Global-Geolocalization"
 OUTPUT_DIR = "data/global_geolocalization/dataset"
 
 

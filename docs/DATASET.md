@@ -1,7 +1,7 @@
 # Dataset Preparation
 
 All datasets are hosted on Hugging Face:
-`https://huggingface.co/collections/claytonwang/marsretrieval`
+`https://huggingface.co/collections/SUSTech/marsretrieval`
 
 <!-- If the repos are private, export your token once:
 ```

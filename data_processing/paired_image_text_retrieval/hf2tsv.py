@@ -4,7 +4,7 @@ import os
 
 from datasets import load_dataset
 
-DATASET = "claytonwang/Mars-VL-Pairs"
+DATASET = "SUSTech/Mars-VL-Pairs"
 SPLIT = "train"
 OUTPUT = "data/paired_image_text_retrieval/dataset/mars_vl_pairs.tsv"
 

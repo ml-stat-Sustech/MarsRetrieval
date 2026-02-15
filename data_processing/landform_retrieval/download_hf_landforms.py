@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from huggingface_hub import snapshot_download
 
-DATASET = "claytonwang/Mars-Landforms"
+DATASET = "SUSTech/Mars-Landforms"
 OUTPUT_DIR = "data/landform_retrieval/dataset"
 
 
