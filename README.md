@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://arxiv.org/">📘 Paper</a>  |
+  <a href="https://arxiv.org/abs/2602.13961">📘 Paper</a>  |
   <a href="https://huggingface.co/collections/SUSTech/marsretrieval">🤗 Datasets</a>
 
 </p>
