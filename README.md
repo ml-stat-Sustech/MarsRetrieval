@@ -62,7 +62,7 @@ bash scripts/landform_retrieval/marscope.sh ${GPU_ID}
 
 We highly recommend building the database in distributed mode first, then you can run experiments on a single GPU.
 ```bash
-# Distributed DB build
+# Distributed DB build with 8 GPUs
 bash scripts/geolocalization/openclip.sh 0,1,2,3,4,5,6,7
 
 # Single-GPU runs
