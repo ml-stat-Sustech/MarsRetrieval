@@ -115,7 +115,7 @@ If you find this useful in your research, please consider citing:
 @article{wang2026marsretrieval,
   title={MarsRetrieval: Benchmarking Vision-Language Models for Planetary-Scale Geospatial Retrieval on Mars},
   author={Wang, Shuoyuan and Wang, Yiran and Wei, Hongxin},
-  journal = {ArXiv},
+  journal={arXiv preprint arXiv:2602.13961},
   year = {2026}
 }
 ```
